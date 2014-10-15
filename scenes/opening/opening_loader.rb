@@ -1,0 +1,5 @@
+require_relative 'module_opening'
+require_relative 'dxruby_benri'
+require_relative 'slide'
+require_relative 'slide_proc'
+require_relative 'director'
